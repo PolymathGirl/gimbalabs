@@ -18,6 +18,6 @@ Look at other files for format.
 - If you see ways to improve this site, we welcome your contributions
 
 ## Learning Resources
-- Content architecture with blog example: https://nextjs.org/learn/basics/create-nextjs-app/setup
+- Content architecture with blog example: https://nextjs.org/learn/
 - Search was built with this: https://medium.com/@matswainson/building-a-search-component-for-your-next-js-markdown-blog-9e75e0e7d210
 
